@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sanketbasak
 - 👀 I’m interested in ...python
 - 🌱 I’m currently learning ...java
-- 💞️ I’m looking to collaborate on ...my futher self
+- 💞️ I’m looking to collaborate on ...my future self
 - 📫 How to reach me ...don't need to
 
 <!---
